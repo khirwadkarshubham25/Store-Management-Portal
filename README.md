@@ -24,3 +24,6 @@ Frontend application uses React.js and Node.js
 2. Navigate to 11_phase5_version1/Phase_5/frontend
 3. Run the following command to install dependancies:- **npm i**
 4. Run the following command to run application:- **npm run dev**
+
+Project Screenshots
+![Screenshot from 2023-01-18 08-53-11](https://user-images.githubusercontent.com/122966558/213203859-4fe078fb-6cc7-4399-b390-8e2f7440732e.png)
